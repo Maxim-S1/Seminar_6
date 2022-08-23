@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\bin\Debug\net6.0\TestingArrays.exe
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\bin\Debug\net6.0\TestingArrays.deps.json
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\bin\Debug\net6.0\TestingArrays.runtimeconfig.json
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\bin\Debug\net6.0\TestingArrays.dll
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\bin\Debug\net6.0\TestingArrays.pdb
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\TestingArrays.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\TestingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\TestingArrays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\TestingArrays.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\TestingArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\TestingArrays.dll
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\refint\TestingArrays.dll
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\TestingArrays.pdb
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\TestingArrays.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба Максим\Знакомство с языками програмирования\Seminar_6\TestingArrays\obj\Debug\net6.0\ref\TestingArrays.dll
